@@ -1,0 +1,10 @@
+!!! ALERT !!!
+Date: 2021-05-23
+Time: 01:54:06 UTC
+------------INFO-------------
+eth: 2356.41  | %: -3.84   ↓
+dog: 0.346578 | %: -2.29   ↓
+btc: 38220.97 | %: 0.78    ↑
+--------Action needed--------
+ETH  - BTFD | Limit passed: 2500.0
+BTC  - BTFD | Limit passed: 40000.0
